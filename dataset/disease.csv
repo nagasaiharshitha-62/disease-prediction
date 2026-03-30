@@ -1,0 +1,11 @@
+symptoms,disease
+fever cough headache,Flu
+cough sneezing sore_throat,Cold
+vomiting stomach_pain diarrhea,Food_Poisoning
+vomiting nausea stomach_pain,Food_Poisoning
+vomiting diarrhea nausea,Food_Poisoning
+headache nausea sensitivity_to_light,Migraine
+headache nausea dizziness,Migraine
+headache sensitivity_to_light nausea,Migraine
+high_fever chills sweating,Malaria
+fever chills headache,Malaria
